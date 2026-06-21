@@ -89,7 +89,5 @@ curl http://127.0.0.1:5000/recent-predictions
 This project is provided as-is for demo and learning purposes. Add a LICENSE file if you plan to open-source it.
 
 ---
-If you'd like, I can also:
-- add a `CONTRIBUTING.md` and `LICENSE` file
-- create a small GitHub Actions workflow to run a quick lint/test on push
-- help push this repo to your GitHub account (I can provide exact commands for HTTPS or SSH)
+
+
